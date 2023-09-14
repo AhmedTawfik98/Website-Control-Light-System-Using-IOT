@@ -1,0 +1,8 @@
+MGPIO_Prog.c:15:6:MGPIO_vSetPinMode	21
+MGPIO_Prog.c:84:6:MGPIO_vSetPinOutputType	11
+MGPIO_Prog.c:114:6:MGPIO_vSetPinOutputSpeed	21
+MGPIO_Prog.c:180:6:MGPIO_vSetPinInputPull	16
+MGPIO_Prog.c:232:4:MGPIO_u8GetPinValue	5
+MGPIO_Prog.c:249:6:MGPIO_vSetPinVal	11
+MGPIO_Prog.c:279:6:MGPIO_vSetPinVal_fast	11
+MGPIO_Prog.c:315:6:MGPIO_vSetAlternativeFunction	11

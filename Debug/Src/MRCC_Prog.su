@@ -1,0 +1,9 @@
+../Src/MRCC_Prog.c:14:6:MRCC_vInit	4	static
+../Src/MRCC_Prog.c:35:6:MRCC_vEnable_AHB1Clock	16	static
+../Src/MRCC_Prog.c:41:6:MRCC_vEnable_AHB2Clock	16	static
+../Src/MRCC_Prog.c:47:6:MRCC_vEnable_APB1Clock	16	static
+../Src/MRCC_Prog.c:53:6:MRCC_vEnable_APB2Clock	16	static
+../Src/MRCC_Prog.c:61:6:MRCC_Disable_AHB1Clock	16	static
+../Src/MRCC_Prog.c:68:6:MRCC_Disable_AHB2Clock	16	static
+../Src/MRCC_Prog.c:74:6:MRCC_Disable_APB1Clock	16	static
+../Src/MRCC_Prog.c:80:6:MRCC_Disable_APB2Clock	16	static
