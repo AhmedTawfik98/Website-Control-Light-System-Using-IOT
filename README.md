@@ -2,3 +2,4 @@
 This is the first Step in the FOTA Project: We turn on / off the light in a room using a Website (Server). The application layer will handle user interactions and communicate with the ESP8266 module and STM32F401CC to control the lights over the air.
 
 http://itialex44.freeoda.com/
+![image](https://github.com/AhmedTawfik98/Website-Control-Light-System-Using-IOT/assets/48189001/3bbea94e-0225-4909-a3e1-9d4520b58932)
